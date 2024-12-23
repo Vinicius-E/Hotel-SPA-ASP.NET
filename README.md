@@ -2,7 +2,7 @@
 
 To run it's necessary to have Dotnet installed.
 
-### `npm install -g dotnet-install`
+### `npm install`
 
 In the project directory, you can run:
 
